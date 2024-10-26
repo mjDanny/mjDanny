@@ -8,7 +8,7 @@ Recently learned to be a web developer in Python using the Flask microframework.
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [bakhvalovfresh2014@gmail.com](mailto:bakhvalovfresh2014@gmail.com)
-* 🚀  I'm currently working on [DIgital Stuff](http://github.com/mjDanny/GraduationProject)
+* 🚀  I'm currently working on [AIPrintgen](https://aiprintgen.ru/)
 * 🧠  I'm learning Anything related to AI development
 
 ### Skills
