@@ -22,7 +22,7 @@ Recently learned to be a web developer in Python using the Flask microframework.
 
 ## Система ответов на вопросы с использованием DistilBERT
 
-Разработал систему ответов на вопросы (QA) с использованием модели DistilBERT, дообученной на датасете SQuAD. Система извлекает ответы из текста с высокой точностью. [Ссылка на проект](URL_ВАШЕГО_ПРОЕКТА)
+Разработал систему ответов на вопросы (QA) с использованием модели DistilBERT, дообученной на датасете SQuAD. Система извлекает ответы из текста с высокой точностью. [Ссылка на проект](https://github.com/mjDanny/ai_chat_with_dataset)
 
 **Стек:** Python, TensorFlow, Hugging Face, NLP
 
