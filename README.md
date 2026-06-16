@@ -1,23 +1,27 @@
-# Hi, I'm Danila Bakhvalov 👋
+# Danila Bakhvalov
 
 ### Python Backend Developer
 
-Backend-разработчик на Python с фокусом на FastAPI, PostgreSQL, REST API и интеграцию AI-решений в реальные продукты.
+Backend-focused Python developer building web applications, REST APIs, database-driven systems, and AI-powered solutions.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Python Backend Developer
-- 🔥 Основной стек: FastAPI, PostgreSQL, SQLAlchemy
-- 🏗 Люблю проектировать архитектуру приложений и API
-- 🤖 Интересуюсь AI, NLP и автоматизацией процессов
-- 📚 Постоянно изучаю современные backend-подходы
-- 🌍 Open to Backend Python opportunities
+I specialize in backend development with Python, focusing on building scalable web applications, API services, authentication systems, and database-driven products.
+
+My main interests include:
+
+- Backend Development
+- REST API Design
+- Database Architecture
+- AI Integration
+- Business Process Automation
+- Web Application Development
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -33,7 +37,7 @@ Backend-разработчик на Python с фокусом на FastAPI, Postg
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools
+### Tools & Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,108 +46,106 @@ Backend-разработчик на Python с фокусом на FastAPI, Postg
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🧵 Sewing Website
+### Sewing Website
 
-Веб-приложение для швейного производства.
+Web platform for a garment manufacturing business.
 
-**Технологии:**
+**Key Features**
 
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Jinja2
-- Passlib
-- Pydantic
-- HTML/CSS
+- User authentication and registration
+- PostgreSQL database integration
+- Server-side rendering with Jinja2
+- Password hashing and security
+- Structured FastAPI architecture
+- Form handling and validation
 
-**Функциональность:**
+**Tech Stack**
 
-- Авторизация пользователей
-- Регистрация пользователей
-- Работа с PostgreSQL
-- HTML-шаблоны
-- Backend-архитектура на FastAPI
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Jinja2` `Passlib` `Pydantic`
 
 ---
 
-### 🛒 Creative Marketplace
+### Creative Marketplace
 
-Backend API для маркетплейса.
+Marketplace backend API built with a modern FastAPI architecture.
 
-**Технологии:**
+**Key Features**
 
+- REST API development
+- CRUD operations
+- User management
+- Dependency Injection
+- Async database access
+- Alembic migrations
+- Environment-based configuration
+
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `AsyncIO`
+
+---
+
+### AIChatFlutter
+
+Cross-platform AI chat application supporting multiple LLM providers.
+
+**Key Features**
+
+- Multi-provider AI support
+- Chat history management
+- Local data storage
+- Token usage tracking
+- Cross-platform architecture
+
+**Tech Stack**
+
+`Flutter` `Dart` `SQLite` `OpenRouter API`
+
+---
+
+## What I Work With
+
+- Python
 - FastAPI
+- Flask
+- REST APIs
 - PostgreSQL
 - SQLAlchemy
 - Alembic
-- AsyncIO
-- Pydantic Settings
-
-**Функциональность:**
-
-- REST API
-- CRUD операции
-- Работа с пользователями
-- Миграции БД
-- Dependency Injection
-- Асинхронная работа с базой данных
+- Docker
+- Linux
+- Git
+- Authentication Systems
+- Backend Architecture
+- AI Integrations
 
 ---
 
-### 🤖 AIChatFlutter
+## Current Focus
 
-Кроссплатформенный AI-клиент.
-
-**Технологии:**
-
-- Flutter
-- Dart
-- SQLite
-- OpenRouter API
-- VseGPT API
-
-**Функциональность:**
-
-- Поддержка нескольких LLM
-- История чатов
-- Статистика использования
-- Кроссплатформенность
-
----
-
-## 🎯 Current Focus
-
-Сейчас активно изучаю и развиваюсь в:
+Currently improving my skills in:
 
 - FastAPI
 - PostgreSQL
 - SQLAlchemy 2.0
+- Backend Architecture
+- API Design
 - Docker
-- Clean Architecture
-- Backend System Design
-- AI Integration
-- High Load Services
+- Scalable Web Applications
+- AI-Powered Products
 
 ---
 
-## 📈 GitHub Stats
+## Contact
 
-![](https://github-readme-stats.vercel.app/api?username=mjDanny&show_icons=true&count_private=true)
+📧 Email: bakhvalovfresh2014@gmail.com
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjDanny&layout=compact)
+💬 Telegram: https://t.me/mjDanny
 
----
-
-## 📫 Contacts
-
-- Telegram: https://t.me/mjDanny
-- Email: bakhvalovfresh2014@gmail.com
-- GitHub: https://github.com/mjDanny
+🐙 GitHub: https://github.com/mjDanny
 
 ---
 
-### 💡 Motto
-
-> Build useful things. Automate routine. Solve real problems.
+> Building useful software, automating processes, and solving real-world problems with Python.
