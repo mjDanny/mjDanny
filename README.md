@@ -108,9 +108,9 @@ Infrastructure        ████████████████░░░�
 
 ## Current commercial project
 
-### Flamingo Textile — B2B e-commerce platform
+### B2B e-commerce platform
 
-I'm currently working on a real commercial platform for a textile business, where development is driven by existing business processes rather than a greenfield tutorial scenario.
+I'm currently working on a real commercial platform for a business, where development is driven by existing business processes rather than a greenfield tutorial scenario.
 
 My work is centered around **backend development, integration architecture and product data flows**.
 
